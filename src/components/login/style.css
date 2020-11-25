@@ -1,0 +1,26 @@
+.login-button-box {
+  display: flex;
+  margin-top: 15px;
+
+}
+
+.login-button {
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+.input {
+  margin-bottom: 10px;
+}
+
+.tip {
+  color: red;
+  margin-left: 10px;
+  margin-top: 10px !important
+}
+
+.vipbutton {
+  margin-top: 0px;
+  display: block;
+  margin-top: -16px
+}
